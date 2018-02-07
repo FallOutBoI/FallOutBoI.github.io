@@ -1,12 +1,10 @@
-html{height:100%;}
 body{
 background-color:#000000;
 background-image:url(image/fon.jpg);
 background-position:center top;
 background-repeat:no-repeat;
 background-attachment:fixed;
-background-size: 100%;
-background-size: 100%;}
+background-size: 100% 100%;}
 p{text-indent:25px;}
 font{color:#f6ff00; 
 font-size:18px;}
